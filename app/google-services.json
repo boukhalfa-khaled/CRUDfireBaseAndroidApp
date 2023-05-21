@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "533276656066",
+    "project_id": "tpfirebaseandroidj",
+    "storage_bucket": "tpfirebaseandroidj.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:533276656066:android:25fb9c04996c8c9dad165b",
+        "android_client_info": {
+          "package_name": "com.example.tpandroidfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "533276656066-rkrgds1i1idsg0aqfqhaab73l8v3pk3p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQfwtkPqeYmTmQu-aVulF7_WCThpt9Xys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "533276656066-rkrgds1i1idsg0aqfqhaab73l8v3pk3p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
